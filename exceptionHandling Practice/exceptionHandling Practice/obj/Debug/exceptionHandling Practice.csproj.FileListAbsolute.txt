@@ -1,0 +1,9 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\bin\Debug\exceptionHandling Practice.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\bin\Debug\exceptionHandling Practice.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\bin\Debug\exceptionHandling Practice.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling Practice.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling_Practice.Form1.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling_Practice.Properties.Resources.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling Practice.csproj.GenerateResource.Cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling Practice.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\exceptionHandling Practice\exceptionHandling Practice\obj\Debug\exceptionHandling Practice.pdb
